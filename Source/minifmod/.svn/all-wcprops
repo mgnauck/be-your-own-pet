@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod
+END
+Fsound.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/Fsound.c
+END
+music_formatxm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/music_formatxm.h
+END
+minifmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/minifmod.h
+END
+Winmm.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/Winmm.lib
+END
+mixer_fpu_ramp.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/mixer_fpu_ramp.c
+END
+system_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/system_memory.h
+END
+mixer_fpu_ramp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/mixer_fpu_ramp.h
+END
+system_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/system_file.c
+END
+Music.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/Music.h
+END
+mixer_clipcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/mixer_clipcopy.c
+END
+Fmusic.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/Fmusic.c
+END
+system_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/system_file.h
+END
+Mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/Mixer.h
+END
+xmeffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/xmeffects.h
+END
+mixer_clipcopy.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/mixer_clipcopy.h
+END
+music_formatxm.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/music_formatxm.c
+END
+Sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/minifmod/Sound.h
+END

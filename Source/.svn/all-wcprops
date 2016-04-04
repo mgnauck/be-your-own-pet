@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source
+END
+RenderVisitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/RenderVisitor.cpp
+END
+Deformator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Deformator.cpp
+END
+Material.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Material.h
+END
+Plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Plane.h
+END
+Wall.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Wall.h
+END
+ShadowVisitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/ShadowVisitor.cpp
+END
+Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Shape.h
+END
+Triangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Triangle.cpp
+END
+GLContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/GLContext.cpp
+END
+GLHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/GLHelper.h
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Vector.h
+END
+Renderable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Renderable.h
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Matrix.h
+END
+Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Window.h
+END
+Vertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Vertex.cpp
+END
+EffectPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/EffectPlayer.h
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Map.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/main.cpp
+END
+FFDObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/FFDObject.cpp
+END
+Generator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Generator.cpp
+END
+Twine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Twine.cpp
+END
+RenderableVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/RenderableVisitor.h
+END
+First.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/First.h
+END
+Spiral.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Spiral.h
+END
+Spline.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Spline.h
+END
+Wall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Wall.cpp
+END
+Intro.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Intro.h
+END
+Shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Shape.cpp
+END
+SpermWorm.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/SpermWorm.h
+END
+Mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Mesh.h
+END
+Effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Effect.h
+END
+GLHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/GLHelper.cpp
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Scene.h
+END
+Vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Vector.cpp
+END
+Renderable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Renderable.cpp
+END
+RenderVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/RenderVisitor.h
+END
+Matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Matrix.cpp
+END
+Deformator.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Deformator.h
+END
+Window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Window.cpp
+END
+EffectPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/EffectPlayer.cpp
+END
+ShadowVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/ShadowVisitor.h
+END
+Triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Triangle.h
+END
+Light.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Light.h
+END
+GLContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/GLContext.h
+END
+Vertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Vertex.h
+END
+First.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/First.cpp
+END
+Spiral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Spiral.cpp
+END
+Spline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Spline.cpp
+END
+Intro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Intro.cpp
+END
+FFDObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/FFDObject.h
+END
+Generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Generator.h
+END
+SpermWorm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/SpermWorm.cpp
+END
+Twine.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Twine.h
+END
+Mesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Mesh.cpp
+END
+Effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Effect.cpp
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dev460/releases/!svn/ver/4/trunk/be-your-own-pet/source/Source/Scene.cpp
+END
